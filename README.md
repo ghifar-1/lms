@@ -38,7 +38,7 @@ an application using Spring Boot, and MySQL.
 ![Book List ](./screenshots/book_list.png "Book List")
 
 ### Book By id 
-![Book Details ](./screenshots/book_Details.png "Book Details")
+![Book Details ](./screenshots/book_details.png "Book Details")
 
 ### Adding a book
 ![Add Book](./screenshots/book_add.png "Add Book")
