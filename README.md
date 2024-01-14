@@ -30,7 +30,7 @@ an application using Spring Boot, and MySQL.
 <br>
 
 * singOut.
-![singOut](./screenshots/singup.png "singOut")
+![singOut](./screenshots/singout.png "singOut")
 <br>
 
 ## Book
