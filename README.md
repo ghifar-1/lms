@@ -55,7 +55,7 @@ an application using Spring Boot, and MySQL.
 ![Patrons List ](./screenshots/patron_list.png "Patrons List")
 
 ### Patron By id 
-![Patron Details ](./screenshots/patron_Details.png "Patron Details")
+![Patron Details ](./screenshots/patron_details.png "Patron Details")
 
 ### Adding a Patron By Admin
 ![Add Patron](./screenshots/patron_add.png "Add Patron")
